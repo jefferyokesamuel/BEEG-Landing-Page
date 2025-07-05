@@ -11,7 +11,7 @@ const TokenSection = () => {
     },
   {
   icon: TrendingUp,
-  title: "$205 Buyback Model",
+  title: "Fixed Annual Sale & BuyBack Model",
   description: (
     <>
       Each $BEEG token is minted with a fixed sell price and a guaranteed buyback price, set annually after:<br /> <br />
