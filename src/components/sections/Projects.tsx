@@ -39,7 +39,7 @@ const Projects = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="flex items-center space-x-2">
                   <Zap className="h-5 w-5 text-[#22513B]" />
-                  <span className="text-[#555555]">2.5 MW Solar</span>
+                  <span className="text-[#555555]">5 MW Solar + 7.15Mwh BESS</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <MapPin className="h-5 w-5 text-[#22513B]" />
@@ -49,7 +49,7 @@ const Projects = () => {
               
               <p className="text-[#555555]">
                 Federal University Oye-Ekiti becomes Africa's first tokenized carbon-backed campus, 
-                generating 15,000 VCUs annually while providing reliable clean power.
+                generating 513 VCUs (SD vista certified) annually while providing reliable clean power.
               </p>
               
               <Button className="w-full bg-[#22513B] hover:bg-[#22513B]/90">

@@ -7,17 +7,24 @@ const TokenSection = () => {
     {
       icon: Shield,
       title: "Not a Carbon Offset",
-      description: "BEEG tokens represent exposure to carbon credit vaults, not redeemable offsets. Pure financial instrument."
+      description: "$BEEG tokens are not retireable offsets.They represent exposure to verifiable carbon credit vaults, backed by real diesel displacement — designed as financial instruments for climate-aligned investors."
     },
-    {
-      icon: TrendingUp,
-      title: "$205 Buyback Model",
-      description: "Institutional buyback mechanism tied to energy demand and carbon credit generation cycles."
-    },
+  {
+  icon: TrendingUp,
+  title: "$205 Buyback Model",
+  description: (
+    <>
+      Each $BEEG token is minted with a fixed sell price and a guaranteed buyback price, set annually after:<br /> <br />
+      1. The launch of a new project series,<br />
+      2. The sale of 10% of that series’ Verra-verified SD VISta VCUs.<br /> <br />
+      Prices are locked per vintage and never change once minted, providing institutional-grade clarity and predictable returns.
+    </>
+  )
+},
     {
       icon: Coins,
       title: "Exposure to 735,000 VCUs",
-      description: "Token holders gain exposure to verified carbon units across our entire project portfolio."
+      description: "$BEEG tokens are backed by a projected pipeline of 735,000+ verified carbon units, generated across public institutions converting from diesel to clean prepaid power by 2031."
     }
   ];
 
@@ -29,8 +36,8 @@ const TokenSection = () => {
             <span className="text-[#FFD600]">$BEEG</span> – A Tokenized Carbon Vault for Institutional Impact
           </h2>
           <p className="text-xl text-gray-300 max-w-3xl mx-auto">
-            Revolutionary tokenized exposure to verified carbon credits and institutional energy demand, 
-            powered by real infrastructure and transparent blockchain tracking.
+            Programmable carbon exposure from public institutions — tokenized by vintage,
+            secured by clean infrastructure, and governed by transparent smart contracts.
           </p>
         </div>
         

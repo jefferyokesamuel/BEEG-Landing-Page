@@ -16,7 +16,8 @@ const Hero = () => {
         </h1>
         
         <p className="text-base sm:text-lg md:text-xl lg:text-2xl mb-6 sm:mb-8 text-gray-200 max-w-3xl mx-auto leading-relaxed">
-          Smart energy. Verra carbon credits. Tokenized impact.
+          Prepaid solar + battery systems. Verra-verified carbon credits. Tokenized impact —
+          grounded in real infrastructure.
         </p>
         
         <div className="flex flex-col gap-3 sm:gap-4 justify-center items-center mb-8 sm:mb-12">
@@ -50,8 +51,8 @@ const Hero = () => {
             <div className="text-xs sm:text-sm text-gray-300">VCUs Projected</div>
           </div>
           <div className="text-center bg-black/20 rounded-lg p-4 sm:p-6 backdrop-blur-sm">
-            <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-[#FFD600] mb-1">$205</div>
-            <div className="text-xs sm:text-sm text-gray-300">Token Buyback Model</div>
+            <div className="text-xl sm:text-2xl lg:text-3xl font-bold text-[#FFD600] mb-1">Coming Soon</div>
+            <div className="text-xs sm:text-sm text-gray-300">$BEEG Annual Sell & Buyback Prices</div>
           </div>
         </div>
       </div>
